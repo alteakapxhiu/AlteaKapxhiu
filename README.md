@@ -1,16 +1,16 @@
-## Hi there 👋
+![Web and App Developer](https://media.licdn.com/dms/image/D4D16AQGtJjH0F-Kwyg/profile-displaybackgroundimage-shrink_350_1400/0/1719410165062?e=1724889600&v=beta&t=67tb7oU6_SotN4jkNHYgbKI8FHFc1ZJ2rHRJx-nUemw)
 
-<!--
-**alteakapxhiu/AlteaKapxhiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi I'm Altea Kapxhiu
+I'm a Web and App developer.Specialised in Android developing and Web Design.Some technologies I enjoy working are Javascript,Java and Python.I also find languages and frameworks like React and React Native really enjoyable to learn.
+## Skills and Experience
+* 📱 Android App Development
+* 🖱️ JAVA
+* 👩‍💻 PYTHON
+* 💻 HTML,CSS,JS
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on An Android App 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/euphoriate)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/alteakapxhiu/)  
+
