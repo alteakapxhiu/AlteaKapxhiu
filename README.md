@@ -3,15 +3,15 @@
 ### Hi I'm Altea Kapxhiu
 I'm a Web and App developer. Specialised in Android developing and Web Design. Some technologies I enjoy working are Javascript,Java and Python. I also find languages and frameworks like React and React Native really enjoyable to learn.
 ## Skills and Experience
-* 📱 Android App Development 
-* 🖱️ JAVA
-* 👩‍💻 PYTHON
-* 💻 WEB DEVELOPMENT - HTML,CSS,JS
-* 🌐 WEB APP DEVELOPMENT 
+* 📱 APP DEVELOPMENT( IOS & Android) - React,Swift,Java
+* 🌐 WEB DEVELOPMENT -HTML,CSS,Javascript,NodeJS,SQL
+* 🖱️ JAVA PROGRAMMING
+* 👩‍💻 PYTHON PROGRAMMING
+
 
 
 - 🔭 I’m currently working on An Android App 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/euphoriate)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/alteakapxhiu/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alteakapxhiu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/alteakapxhiu/)  
 
