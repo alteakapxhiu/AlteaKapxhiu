@@ -1,4 +1,4 @@
-![Web and App Developer](https://media.licdn.com/dms/image/D4D16AQHdEHPYn4guxg/profile-displaybackgroundimage-shrink_350_1400/0/1719779898935?e=1725494400&v=beta&t=IJvETI7ZNNNqqO3jtH6Y9a3_JhULpx16WCi0gVSLl_Q)
+![Web and App Developer](https://media.licdn.com/dms/image/D4D16AQFUtRyVlecf2A/profile-displaybackgroundimage-shrink_350_1400/0/1719781344751?e=1725494400&v=beta&t=FeSdHFI4Huq06gy1gWd4a3oAtMYTjH_ABrpw3jcfDJA)
 
 ### Hi I'm Altea Kapxhiu
 I'm a Web and App developer. Specialised in Android developing and Web Developing. Some technologies I enjoy working are Javascript,Java and Python. I also find languages and frameworks like React and React Native really enjoyable to learn.
