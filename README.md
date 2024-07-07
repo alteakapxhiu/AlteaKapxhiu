@@ -1,4 +1,4 @@
-![Web and App Developer](https://media.licdn.com/dms/image/D4D16AQFUtRyVlecf2A/profile-displaybackgroundimage-shrink_350_1400/0/1719781344751?e=1725494400&v=beta&t=FeSdHFI4Huq06gy1gWd4a3oAtMYTjH_ABrpw3jcfDJA)
+![Web and App Developer](https://media.licdn.com/dms/image/D4D16AQGtJjH0F-Kwyg/profile-displaybackgroundimage-shrink_350_1400/0/1719410165062?e=1724889600&v=beta&t=67tb7oU6_SotN4jkNHYgbKI8FHFc1ZJ2rHRJx-nUemw)
 
 ### Hi I'm Altea Kapxhiu
 I'm a Web and App developer. Specialised in Android developing and Web Developing. Some technologies I enjoy working are Javascript,Java and Python. I also find languages and frameworks like React and React Native really enjoyable to learn.
@@ -13,7 +13,7 @@ I'm a Web and App developer. Specialised in Android developing and Web Developin
 - 🔭 I’m currently working on An Android App 
 
 ## Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alteakapxhiu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/alteakapxhiu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://docs.google.com/document/d/16UdywCBpr4NXJCo0Xy3j68R66abCbq2c/edit?usp=sharing&ouid=101757957982374988299&rtpof=true&sd=true)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alteakapxhiu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/alteakapxhiu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://drive.google.com/file/d/1eCMzFLFgBCH1eZrpk0uyaerIMeMlbQ87/view?usp=drivesdk)
 
 
 
