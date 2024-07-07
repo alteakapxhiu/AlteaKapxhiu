@@ -13,7 +13,7 @@ I'm a Web and App developer. Specialised in Android developing and Web Developin
 - 🔭 I’m currently working on An Android App 
 
 ## Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alteakapxhiu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/alteakapxhiu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://drive.google.com/file/d/1eCMzFLFgBCH1eZrpk0uyaerIMeMlbQ87/view?usp=drivesdk)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alteakapxhiu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/alteakapxhiu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://docs.google.com/file/d/1OzS7FlEg7C-ZQ-tG_70gdDK4dCGW8cPZ/edit?usp=docslist_api&filetype=msword)
 
 
 
