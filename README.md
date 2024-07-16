@@ -1,7 +1,7 @@
 ![Web and App Developer](https://media.licdn.com/dms/image/D4D16AQFUtRyVlecf2A/profile-displaybackgroundimage-shrink_350_1400/0/1719781344751?e=1726099200&v=beta&t=OdU1Ul6egvsP0act0D71NOz6sKnmdOix02QUIOQcNuA)
 
 ### Hi I'm Altea Kapxhiu
-I'm a Web and App developer. Specialised in Android developing and Web Developing. Some technologies I enjoy working are Javascript,Java and Python. I also find languages and frameworks like React and React Native really enjoyable to learn.
+I'm a Web and App developer. Specialised in React Native developing and Web Developing. Some technologies I enjoy working are Javascript,Java and Python. I also find languages and frameworks like React and Django really enjoyable to learn.
 ## Skills and Experience
 * 📱 APP DEVELOPMENT( IOS & Android ) 
 * 🌐 WEB DEVELOPMENT 
@@ -13,8 +13,7 @@ I'm a Web and App developer. Specialised in Android developing and Web Developin
 - 🔭 I’m currently working on An Android App 
 
 ## Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alteakapxhiu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/alteakapxhiu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://drive.google.com/file/d/1uvQGKmKGW3VFnQ2Ov4lSL-0gCu5ffYtS/view?usp=drive_link)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alteakapxhiu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/alteakapxhiu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>]( https://drive.google.com/file/d/16L7tniVEaURimsUND-eXyN0M3V4Pl6s4/view?usp=drivesdk)
 
 
 ## Languages and Tools:
