@@ -27,7 +27,7 @@ I'm a Computer Science student with a passion for web and app development. Profi
 
 <h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 40px height= 50px> </h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alteakapxhiu&repo=test)](https://github.com/alteakapxhiu/TaskPro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alteakapxhiu&repo=TaskPro)](https://github.com/alteakapxhiu/TaskPro)
 
 
 ## Languages and Tools:
