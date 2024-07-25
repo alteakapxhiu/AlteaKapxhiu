@@ -18,8 +18,9 @@ I'm a Computer Science student with a passion for web and app development. Profi
 </p>
 <br>
 
-## Skills and Experience
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200" alt="Description">
+
+## Skills and Experience<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200" alt="Description">
+
 * 📱 APP DEVELOPMENT( IOS & Android ) 
 * 🌐 WEB DEVELOPMENT 
 * 🖱️ JAVA PROGRAMMING
