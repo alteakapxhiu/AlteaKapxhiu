@@ -7,13 +7,11 @@
 I'm a Computer Science student with a passion for web and app development. Proficient in languages such as JavaScript, Python, and Java, and experienced with frameworks like React and Django. Skilled in building user-friendly, responsive websites using HTML,CSS and React as well as mobile applications using tools like React Native and Android Studio. Adept at problem-solving and constantly seeking to learn and innovate in the tech industry.
 
 ##
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=ff69b4&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;%0AApp+Developer;%0AWeb+Developer;%0AComputer+Science+Student">
   </a>
 </p>
-
 ##
 
 
