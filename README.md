@@ -9,9 +9,10 @@ I'm a Computer Science student with a passion for web and app development. Profi
 ##
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=ff69b4&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;%0AApp+Developer;%0AWeb+Developer;%0AComputer+Science+Student">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=ff69b4&size=50&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;%0AApp+Developer;%0AWeb+Developer;%0AComputer+Science+Student">
   </a>
 </p>
+
 ##
 
 
