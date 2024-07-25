@@ -1,10 +1,4 @@
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=ff69b4&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;%0AApp+Developer;%0AWeb+Developer;%0AComputer+Science+Student">
-  </a>
-</p>
-<br>
 
 ![Web and App Developer](https://i.imghippo.com/files/VZUvC1721474892.jpg)
 
@@ -14,7 +8,7 @@ I'm a Computer Science student with a passion for web and app development. Profi
 
 
 
-## Skills and Experience<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100" alt="Description">
+## Skills and Experience<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="80" alt="Description">
 
 * 📱 APP DEVELOPMENT( IOS & Android ) 
 * 🌐 WEB DEVELOPMENT 
@@ -24,6 +18,12 @@ I'm a Computer Science student with a passion for web and app development. Profi
 
 
 - 🔭 I’m currently working on a React Native Mobile App 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=ff69b4&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;%0AApp+Developer;%0AWeb+Developer;%0AComputer+Science+Student">
+  </a>
+</p>
 
 ## Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alteakapxhiu) 
