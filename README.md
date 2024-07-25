@@ -1,7 +1,3 @@
-![Web and App Developer](https://i.imghippo.com/files/VZUvC1721474892.jpg)
-
-
-
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -10,7 +6,7 @@
 </p>
 <br>
 
-
+![Web and App Developer](https://i.imghippo.com/files/VZUvC1721474892.jpg)
 
 
 ## Hi, I'm Altea Kapxhiu !
@@ -18,7 +14,7 @@ I'm a Computer Science student with a passion for web and app development. Profi
 
 
 
-## Skills and Experience<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="50" alt="Description">
+## Skills and Experience<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100" alt="Description">
 
 * 📱 APP DEVELOPMENT( IOS & Android ) 
 * 🌐 WEB DEVELOPMENT 
