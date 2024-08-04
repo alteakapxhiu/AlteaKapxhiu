@@ -33,7 +33,7 @@ I'm a Computer Science student with a passion for web and app development. Profi
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alteakapxhiu) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/alteakapxhiu) 
 [<img src='https://cdn-icons-png.flaticon.com/512/36/36049.png' alt='CV' height='40'>]( https://drive.google.com/file/d/16L7tniVEaURimsUND-eXyN0M3V4Pl6s4/view?usp=drivesdk)
-[<img src='https://icons.veryicon.com/png/o/miscellaneous/smart-icon-library/internet-61.png' alt='website' height='40'>](https://github.com/alteakapxhiu) 
+[<img src='https://icons.veryicon.com/png/o/miscellaneous/smart-icon-library/internet-61.png' alt='website' height='40'>](https://alteakapxhiu.github.io/PersonalWebsite/#!) 
 [<img src='https://www.pngall.com/wp-content/uploads/12/Gmail-PNG-File.png' alt='Gmail'  height='40'>](mailto:alteakapxhiu@gmail.com) 
 
 
