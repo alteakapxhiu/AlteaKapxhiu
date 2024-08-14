@@ -56,7 +56,7 @@ I'm a Computer Science student with a passion for web and app development. Profi
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://media1.giphy.com/media/SS8CV2rQdlYNLtBCiF/200.gif?cid=6c09b952j0scet98tk9veghurqs4vqc9g37ef5q36gl530tp&ep=v1_gifs_search&rid=200.gif&ct=g" width="48" height="48" alt="VsCode" />
+      <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>    
     <td align="center" width="96">
