@@ -50,13 +50,13 @@ I'm a Computer Science student with a passion for web and app development. Profi
 ## Languages and Tools:
 
 <table align="center">
-  <tr>
+   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <img src="https://media1.giphy.com/media/SS8CV2rQdlYNLtBCiF/200.gif?cid=6c09b952j0scet98tk9veghurqs4vqc9g37ef5q36gl530tp&ep=v1_gifs_search&rid=200.gif&ct=g" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>    
     <td align="center" width="96">
@@ -85,10 +85,6 @@ I'm a Computer Science student with a passion for web and app development. Profi
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -108,6 +104,26 @@ I'm a Computer Science student with a passion for web and app development. Profi
       <br>Django
     </td>
   </tr>
+
+<tr>
+    <td align="center" width="96">
+      <img src="https://camo.githubusercontent.com/778714951cd9b5d78e576f2148df29a73a2f84cddad602518eca234511a8fa25/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f36323263613035323037313736312e353930333465373461626233362e676966” width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+        <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="" width="48" height="48" alt="" />
+      <br>
+    </td>
+    <td align="center" width="96">
+      <img src="" width="48" height="48" alt="" />
+      <br>
+    </td>
+  </tr>
+
 </table>
 
 
