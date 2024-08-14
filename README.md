@@ -107,7 +107,7 @@ I'm a Computer Science student with a passion for web and app development. Profi
 
 <tr>
     <td align="center" width="96">
-      <img src="https://camo.githubusercontent.com/778714951cd9b5d78e576f2148df29a73a2f84cddad602518eca234511a8fa25/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f36323263613035323037313736312e353930333465373461626233362e676966” width="48" height="48" alt="C#" />
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/622ca052071761.59034e74abb36.gif" width="48" height="48" alt="C#" />
       <br>C#
     </td>
         <td align="center" width="96">
