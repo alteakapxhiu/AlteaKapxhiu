@@ -92,7 +92,7 @@ I'm a Computer Science student with a passion for web and app development. Profi
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <img src="https://media3.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif?cid=6c09b952v6sqmgjjseczsb1atc2y1x5qk772ke4i7ckanbao&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="48" height="48" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="96">
@@ -111,16 +111,16 @@ I'm a Computer Science student with a passion for web and app development. Profi
       <br>C#
     </td>
         <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <img src="https://blogs.purecode.ai/blogs/wp-content/uploads/2023/12/giphy-6.gif" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="" width="48" height="48" alt="" />
-      <br>
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="48" height="48" alt="" />
+      <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="" width="48" height="48" alt="" />
-      <br>
+      <img src="https://iconape.com/wp-content/png_logo_vector/net-logo-2.png" width="48" height="48" alt="" />
+      <br>.Net
     </td>
   </tr>
 
