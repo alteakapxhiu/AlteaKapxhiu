@@ -126,20 +126,23 @@ I'm a Computer Science student with a passion for web and app development. Profi
 
 </table>
 
+# Projects
+
 ### Websites
 
-| <img src="https://i.postimg.cc/02yzGHS5/Cover-Alisa-Jewels-1.png" alt="Jewelry E-Commerce Site" height="150"/> | <img src="https://i.imghippo.com/files/QAy6u1723491134.png" alt="Personal Portfolio" height="150"/> | <img src="https://i.imghippo.com/files/pYjWc1724078751.png" alt="Tourism Website" height="150"/> |
+| ![Jewelry E-Commerce Site](https://i.postimg.cc/02yzGHS5/Cover-Alisa-Jewels-1.png) | ![Personal Portfolio](https://i.imghippo.com/files/QAy6u1723491134.png) | ![Tourism Website](https://i.imghippo.com/files/pYjWc1724078751.png) |
 |-------------|-------------|-------------|
 | [Jewelry E-Commerce Site](https://github.com/alteakapxhiu/Jewelry-E-Commerce-Website) | [Personal Portfolio](https://github.com/alteakapxhiu/PersonalWebsite) | [Tourism Website](https://github.com/alteakapxhiu/MysticAlbania) |
 
 ### Mobile Apps
 
-| <img src="https://img.youtube.com/vi/9TDUVcv2_yM/maxresdefault.jpg" alt="To Do List" height="150"/> |
+| ![To Do List](https://img.youtube.com/vi/9TDUVcv2_yM/maxresdefault.jpg) |
 |-------------|
 | [To Do List](https://github.com/alteakapxhiu/TaskPro) |
 
 ### Games
 
-| <img src="https://i.imghippo.com/files/bZS8W1723456249.png" alt="VR Campus Simulation" height="150"/> |
+| ![VR Campus Simulation](https://i.imghippo.com/files/bZS8W1723456249.png) |
 |-------------|
 | [VR Campus Simulation](https://github.com/alteakapxhiu/Virtual-University-Campus) |
+
