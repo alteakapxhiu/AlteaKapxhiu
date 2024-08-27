@@ -28,11 +28,13 @@ I'm a Computer Science student with a passion for web and app development. Profi
 
 
 ## Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alteakapxhiu) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/alteakapxhiu) 
-[<img src='https://cdn-icons-png.flaticon.com/512/36/36049.png' alt='CV' height='40'>]( https://drive.google.com/file/d/11oD8v2CuYcBA0hX1REPUVbmNnuAT7y06/view?usp=drivesdk)
-[<img src='https://icons.veryicon.com/png/o/miscellaneous/smart-icon-library/internet-61.png' alt='website' height='40'>](https://alteakapxhiu.github.io/PersonalWebsite/#!) 
-[<img src='https://www.pngall.com/wp-content/uploads/12/Gmail-PNG-File.png' alt='Gmail'  height='40'>](mailto:alteakapxhiu@gmail.com) 
+[<img src='https://static-00.iconduck.com/assets.00/github-desktop-icon-256x256-rporzkkh.png' alt='github' height='40'>](https://github.com/alteakapxhiu) 
+[<img src='https://img.icons8.com/?size=512&id=44019&format=png' alt='linkedin' height='40'>](https://www.linkedin.com/in/alteakapxhiu) 
+[<img src='https://cdn-icons-png.freepik.com/512/8422/8422379.png' alt='CV' height='40'>](https://drive.google.com/file/d/11oD8v2CuYcBA0hX1REPUVbmNnuAT7y06/view?usp=drivesdk)
+[<img src='https://cdn-icons-png.freepik.com/512/6126/6126664.png' alt='website' height='40'>](https://alteakapxhiu.github.io/PersonalWebsite/#!) 
+[<img src='https://cdn-icons-png.freepik.com/512/6126/6126703.png' alt='Gmail' height='40'>](mailto:alteakapxhiu@gmail.com)
+
+
 
 
 ## ⚙️ Tech Stack   <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif"  width = 32px height=30px> </h2>
