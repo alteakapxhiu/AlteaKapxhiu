@@ -125,3 +125,21 @@ I'm a Computer Science student with a passion for web and app development. Profi
   </tr>
 
 </table>
+
+### Websites
+
+| <img src="https://github.com/alteakapxhiu/Jewelry-E-Commerce-Website/raw/main/screenshot.png" alt="Jewelry E-Commerce Site"/> | <img src="https://github.com/alteakapxhiu/PersonalWebsite/raw/main/screenshot.png" alt="Personal Portfolio"/> | <img src="https://github.com/alteakapxhiu/MysticAlbania/raw/main/screenshot.png" alt="Tourism Website"/> |
+|-------------|-------------|-------------|
+| [Jewelry E-Commerce Site](https://github.com/alteakapxhiu/Jewelry-E-Commerce-Website) | [Personal Portfolio](https://github.com/alteakapxhiu/PersonalWebsite) | [Tourism Website](https://github.com/alteakapxhiu/MysticAlbania) |
+
+### Mobile Apps
+
+| <img src="https://github.com/alteakapxhiu/TaskPro/raw/main/screenshot.png" alt="To do list"/> |
+|-------------|
+| [To Do List](https://github.com/alteakapxhiu/TaskPro) |
+
+### Games
+
+| <img src="https://github.com/alteakapxhiu/Virtual-University-Campus/raw/main/screenshot.png" alt="VR Campus Simulation"/> |
+|-------------|
+| [VR Campus Simulation](https://github.com/alteakapxhiu/Virtual-University-Campus) |
