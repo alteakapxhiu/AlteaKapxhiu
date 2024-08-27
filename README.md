@@ -119,7 +119,7 @@ I'm a Computer Science student with a passion for web and app development. Profi
 
 ### Websites
 
-| ![Jewelry E-Commerce Site](https://github.com/user-attachments/assets/40c169e3-baed-4071-be37-28c780abb44e) | ![Personal Portfolio](https://i.imghippo.com/files/QAy6u1723491134.png) | ![Tourism Website](https://i.imghippo.com/files/pYjWc1724078751.png) | ![WordPress Apartment Website](https://github.com/user-attachments/assets/1a8a0764-71d0-47b7-9491-7820cdcc7c24) |
+|![Jewelry E-Commerce Site](https://github.com/user-attachments/assets/fe5cc16b-9cce-4db5-bd18-e3acf2b9dbda) | ![Personal Portfolio](https://i.imghippo.com/files/QAy6u1723491134.png) | ![Tourism Website](https://i.imghippo.com/files/pYjWc1724078751.png) | ![WordPress Apartment Website](https://github.com/user-attachments/assets/1a8a0764-71d0-47b7-9491-7820cdcc7c24) |
 |-------------|-------------|-------------|-------------|
 | [Jewelry E-Commerce Site](https://github.com/alteakapxhiu/Jewelry-E-Commerce-Website) | [Personal Portfolio](https://github.com/alteakapxhiu/PersonalWebsite) | [Tourism Website](https://github.com/alteakapxhiu/MysticAlbania) | [WordPress Apartment Website](https://fancysummerseaview1.wordpress.com) |
 
