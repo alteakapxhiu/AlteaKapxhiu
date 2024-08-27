@@ -131,6 +131,6 @@ I'm a Computer Science student with a passion for web and app development. Profi
 
 ### Games
 
-| ![VR Campus Simulation](https://github.com/user-attachments/assets/cbdce3f7-e0ad-4e14-a9f2-2ceaa20e1a21) | ![Calculator App](https://github.com/user-attachments/assets/0973d995-6b69-4141-9904-deac2f5daa3c) |
+| ![VR Campus Simulation](https://i.imghippo.com/files/bZS8W1723456249.png) | ![Calculator App](https://github.com/user-attachments/assets/0973d995-6b69-4141-9904-deac2f5daa3c) |
 |-------------|-------------|
 | [VR Campus Simulation](https://github.com/alteakapxhiu/Virtual-University-Campus) | [Calculator App](https://github.com/alteakapxhiu/CalculatorApp) |
