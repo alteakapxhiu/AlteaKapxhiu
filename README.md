@@ -1,3 +1,9 @@
+![Web and App Developer](https://i.imghippo.com/files/VZUvC1721474892.jpg)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a9ba024e-6563-4277-9036-40453333bdd4" width="300"/>
+</p>
+
 ## Hi, I'm Altea Kapxhiu!
 
 I'm a Computer Science student with a passion for web and app development. Proficient in languages such as JavaScript, Python, and Java, and experienced with frameworks like React and Django. Skilled in building user-friendly, responsive websites using HTML, CSS, and React, as well as mobile applications using tools like React Native and Android Studio. Adept at problem-solving and constantly seeking to learn and innovate in the tech industry.
