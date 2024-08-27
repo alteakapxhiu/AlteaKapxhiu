@@ -25,7 +25,7 @@ I'm a Computer Science student with a passion for web and app development. Profi
 ## Connect with me:
 
 [<img src='https://static-00.iconduck.com/assets.00/github-desktop-icon-256x256-rporzkkh.png' alt='github' height='40'>](https://github.com/alteakapxhiu) 
-[<img src='https://img.icons8.com/?size=512&id=44019&format=png' alt='linkedin' height='40'>](https://www.linkedin.com/in/alteakapxhiu) 
+[<img src='https://img.icons8.com/?size=512&id=44019&format=png' alt='linkedin' height='50'>](https://www.linkedin.com/in/alteakapxhiu) 
 [<img src='https://cdn-icons-png.freepik.com/512/8422/8422379.png' alt='CV' height='40'>](https://drive.google.com/file/d/11oD8v2CuYcBA0hX1REPUVbmNnuAT7y06/view?usp=drivesdk)
 [<img src='https://cdn-icons-png.freepik.com/512/6126/6126664.png' alt='website' height='40'>](https://alteakapxhiu.github.io/PersonalWebsite/#!) 
 [<img src='https://cdn-icons-png.freepik.com/512/6126/6126703.png' alt='Gmail' height='40'>](mailto:alteakapxhiu@gmail.com)
@@ -119,9 +119,9 @@ I'm a Computer Science student with a passion for web and app development. Profi
 
 ### Websites
 
-| ![Jewelry E-Commerce Site](https://i.postimg.cc/02yzGHS5/Cover-Alisa-Jewels-1.png) | ![Personal Portfolio](https://i.imghippo.com/files/QAy6u1723491134.png) | ![Tourism Website](https://i.imghippo.com/files/pYjWc1724078751.png) |
-|-------------|-------------|-------------|
-| [Jewelry E-Commerce Site](https://github.com/alteakapxhiu/Jewelry-E-Commerce-Website) | [Personal Portfolio](https://github.com/alteakapxhiu/PersonalWebsite) | [Tourism Website](https://github.com/alteakapxhiu/MysticAlbania) |
+| ![Jewelry E-Commerce Site](https://github.com/user-attachments/assets/fe5cc16b-9cce-4db5-bd18-e3acf2b9dbda) | ![Personal Portfolio](https://i.imghippo.com/files/QAy6u1723491134.png) | ![Tourism Website](https://i.imghippo.com/files/pYjWc1724078751.png) | ![WordPress Apartment Website](https://github.com/user-attachments/assets/1a8a0764-71d0-47b7-9491-7820cdcc7c24) |
+|-------------|-------------|-------------|-------------|
+| [Jewelry E-Commerce Site](https://github.com/alteakapxhiu/Jewelry-E-Commerce-Website) | [Personal Portfolio](https://github.com/alteakapxhiu/PersonalWebsite) | [Tourism Website](https://github.com/alteakapxhiu/MysticAlbania) | [WordPress Apartment Website](https://fancysummerseaview1.wordpress.com) |
 
 ### Mobile Apps
 
