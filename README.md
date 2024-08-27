@@ -28,15 +28,14 @@ I'm a Computer Science student with a passion for web and app development. Profi
 - 🔭 I’m currently working on a React Native Mobile App 
 
 
-
-<img src="https://cdn.prod.website-files.com/5a9ee6416e90d20001b20038/64f5c43dd0f286c98c59c60f_Rectangle%20(22).svg" alt="Gradient Background" style="width:100%; height:auto;">
-
-## Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alteakapxhiu) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/alteakapxhiu) 
-[<img src='https://cdn-icons-png.flaticon.com/512/36/36049.png' alt='CV' height='40'>]( https://drive.google.com/file/d/11oD8v2CuYcBA0hX1REPUVbmNnuAT7y06/view?usp=drivesdk)
-[<img src='https://icons.veryicon.com/png/o/miscellaneous/smart-icon-library/internet-61.png' alt='website' height='40'>](https://alteakapxhiu.github.io/PersonalWebsite/#!) 
-[<img src='https://www.pngall.com/wp-content/uploads/12/Gmail-PNG-File.png' alt='Gmail'  height='40'>](mailto:alteakapxhiu@gmail.com)
+<div style="background-image: url('https://cdn.prod.website-files.com/5a9ee6416e90d20001b20038/64f5c43dd0f286c98c59c60f_Rectangle%20(22).svg'); padding: 20px; border-radius: 10px; text-align: center; background-size: cover;">
+  <h2 style="color: white;">Connect with me:</h2>
+  <a href="https://github.com/alteakapxhiu"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="margin: 10px;"></a>
+  <a href="https://www.linkedin.com/in/alteakapxhiu"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="margin: 10px;"></a>
+  <a href="https://drive.google.com/file/d/11oD8v2CuYcBA0hX1REPUVbmNnuAT7y06/view?usp=drivesdk"><img src="https://cdn-icons-png.flaticon.com/512/36/36049.png" alt="CV" height="40" style="margin: 10px;"></a>
+  <a href="https://alteakapxhiu.github.io/PersonalWebsite/#!"><img src="https://icons.veryicon.com/png/o/miscellaneous/smart-icon-library/internet-61.png" alt="website" height="40" style="margin: 10px;"></a>
+  <a href="mailto:alteakapxhiu@gmail.com"><img src="https://www.pngall.com/wp-content/uploads/12/Gmail-PNG-File.png" alt="Gmail" height="40" style="margin: 10px;"></a>
+</div>
 
 
 ## ⚙️ Tech Stack   <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif"  width = 32px height=30px> </h2>
