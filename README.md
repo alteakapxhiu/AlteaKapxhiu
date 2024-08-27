@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a9ba024e-6563-4277-9036-40453333bdd4" width="200"/>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 
 I'm a Computer Science student with a passion for web and app development. Proficient in languages such as JavaScript, Python, and Java, and experienced with frameworks like React and Django. Skilled in building user-friendly, responsive websites using HTML, CSS, and React, as well as mobile applications using tools like React Native and Android Studio. Adept at problem-solving and constantly seeking to learn and innovate in the tech industry.
 
@@ -16,7 +16,7 @@ I'm a Computer Science student with a passion for web and app development. Profi
     <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=ff69b4&size=50&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;%0AApp+Developer;%0AWeb+Developer;%0AComputer+Science+Student">
   </a>
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 
 
