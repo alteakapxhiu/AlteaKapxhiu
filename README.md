@@ -1,12 +1,14 @@
-![Web and App Developer](https://i.imghippo.com/files/VZUvC1721474892.jpg)
-
-
-
-## Hi, I'm Altea Kapxhiu!
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a9ba024e-6563-4277-9036-40453333bdd4" width="200"/>
+  <img src="https://github.com/user-attachments/assets/a9ba024e-6563-4277-9036-40453333bdd4" width="200"/> 
+
 </p>
+
+
+<h2 align="center">Hi, I'm Altea Kapxhiu!</h2>
+
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <p align="center">
