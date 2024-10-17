@@ -4,12 +4,11 @@
 </p>
 
 
-<h2 align="center">Hi, I'm Altea Kapxhiu!</h2>
+<h2 align="center">Hi, I'm Altea!</h2>
 
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -36,13 +35,6 @@ I'm a Computer Science student with a passion for web and app development. Profi
 
 - 🔭 I’m currently working on a React Native Mobile App
 
-## Connect with me:
-
-[<img src='https://static-00.iconduck.com/assets.00/github-desktop-icon-256x256-rporzkkh.png' alt='github' height='40'>](https://github.com/alteakapxhiu) 
-[<img src='https://img.icons8.com/?size=512&id=44019&format=png' alt='linkedin' height='45'>](https://www.linkedin.com/in/alteakapxhiu) 
-[<img src='https://cdn-icons-png.freepik.com/512/8422/8422379.png' alt='CV' height='40'>](https://drive.google.com/file/d/11oD8v2CuYcBA0hX1REPUVbmNnuAT7y06/view?usp=drivesdk)
-[<img src='https://cdn-icons-png.freepik.com/512/6126/6126664.png' alt='website' height='40'>](https://alteakapxhiu.github.io/PersonalWebsite/#!) 
-[<img src='https://cdn-icons-png.freepik.com/512/6126/6126703.png' alt='Gmail' height='40'>](mailto:alteakapxhiu@gmail.com)
 
 ## ⚙️ Tech Stack <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="32" height="30">
 
