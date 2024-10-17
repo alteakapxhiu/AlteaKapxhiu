@@ -121,22 +121,3 @@ I'm a Computer Science student with a passion for web and app development. Profi
   </tr>
 </table>
 
-## Projects
-
-### Websites
-
-|![Jewelry E-Commerce Site](https://github.com/user-attachments/assets/fe5cc16b-9cce-4db5-bd18-e3acf2b9dbda) | ![Personal Portfolio](https://i.imghippo.com/files/QAy6u1723491134.png) | ![Tourism Website](https://i.imghippo.com/files/pYjWc1724078751.png) | ![WordPress Apartment Website](https://github.com/user-attachments/assets/1a8a0764-71d0-47b7-9491-7820cdcc7c24) |
-|-------------|-------------|-------------|-------------|
-| [Jewelry E-Commerce Site](https://github.com/alteakapxhiu/Jewelry-E-Commerce-Website) | [Personal Portfolio](https://github.com/alteakapxhiu/PersonalWebsite) | [Tourism Website](https://github.com/alteakapxhiu/MysticAlbania) | [WordPress Apartment Website](https://fancysummerseaview1.wordpress.com) |
-
-### Mobile Apps
-
-| ![To Do List](https://img.youtube.com/vi/9TDUVcv2_yM/maxresdefault.jpg) |
-|-------------|
-| [To Do List](https://github.com/alteakapxhiu/TaskPro) |
-
-### Games
-
-| ![VR Campus Simulation](https://i.imghippo.com/files/bZS8W1723456249.png) | ![Calculator App](https://github.com/user-attachments/assets/0973d995-6b69-4141-9904-deac2f5daa3c) |
-|-------------|-------------|
-| [VR Campus Simulation](https://github.com/alteakapxhiu/Virtual-University-Campus) | [Calculator App](https://github.com/alteakapxhiu/CalculatorApp) |
